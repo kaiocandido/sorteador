@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Sometype Mono;
+}
+
+
+img{
+    margin-top: 50px;
+    margin-left: 450px;
+    width: 500px;
+    height: 200px;
+}
+
+
+div{
+    margin-top: 50px;
+    margin-left: 440px;
+    border-width: 4px; 
+    border-style: solid; 
+    border-color:  rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    text-align: center;
+
+}
+
+.h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    border-width: 3px; 
+    border-style: solid; 
+    border-color:  rgb(24, 0, 210);
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+button{
+    text-align: center;
+    margin-top: 50px;
+    width: 150px;
+    border-width: 3px; 
+    border-style: solid; 
+    border-color:  rgb(255, 255, 255);
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
+
